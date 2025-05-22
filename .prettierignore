@@ -1,0 +1,14 @@
+# Build output
+.next/
+out/
+
+# Node modules
+node_modules/
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Public assets
+public/
