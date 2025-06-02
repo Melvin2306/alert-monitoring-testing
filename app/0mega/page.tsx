@@ -46,6 +46,14 @@ export default function OmegaPage() {
       date: "2022-05-23",
       downloads: "open",
     },
+    {
+      company: "Acme Inc.",
+      leaked: "100%",
+      tags: "Education, high school, college, university, online learning",
+      size: "152 GB",
+      date: "2022-05-23",
+      downloads: "open",
+    },
   ];
 
   return (

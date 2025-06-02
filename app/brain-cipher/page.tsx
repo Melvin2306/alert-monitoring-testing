@@ -36,6 +36,7 @@ export default function BrainCipherPage() {
       isPaid: true,
     },
     { name: "Royce Corporation" },
+    { name: "Acme Inc." },
     { name: "G-ONE AUTO PARTS DE MÉXICO, S.A. DE C.V." },
     { name: "COOPERATIVA TELEFONICA DE CALAFATE LTD." },
     { name: "Basilio Advogados" },
