@@ -14,7 +14,14 @@ interface LeakEntry {
 
 export default function BrainCipherPage() {
   // Data for the company cards at the top
-  const featuredCompanies = [{ name: "edisoft.es", timestamp: "02:19:48:30" }];
+  const featuredCompanies = [
+    { name: "iycsa.com.co", timestamp: "02:19:48:30" },
+    { name: "edisoft.es", timestamp: "02:19:48:30" },
+    { name: "valedolobo.com", timestamp: "02:19:48:31" },
+    { name: "soundtransit.org", timestamp: "02:19:48:31" },
+    { name: "ruizre.es", timestamp: "02:19:48:31" },
+    { name: "ddecor.com", timestamp: "02:19:48:31" },
+  ];
 
   // Data for the list entries below
   const leakEntries: LeakEntry[] = [

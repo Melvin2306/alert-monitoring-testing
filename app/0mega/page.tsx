@@ -7,6 +7,38 @@ export default function OmegaPage() {
   // Table data
   const leakedData = [
     {
+      company: "Rotorcraft Leasing Company",
+      leaked: "100%",
+      tags: "Helicopter support, pilot training, fueling service, maintenance",
+      size: "1.54 TB",
+      date: "2024-01-17",
+      downloads: "open",
+    },
+    {
+      company: "US Liner Company & American Made LLC",
+      leaked: "100%",
+      tags: "Industrial engineering, manufacturing, advanced materials, thermoplastic composite solutions",
+      size: "712 GB",
+      date: "2024-01-17",
+      downloads: "open",
+    },
+    {
+      company: "Aviacode (GeBBS)",
+      leaked: "100%",
+      tags: "Medical coding, outsourced coding, auditing & consulting",
+      size: "235 GB",
+      date: "2023-02-11",
+      downloads: "open",
+    },
+    {
+      company: "Nextlabs",
+      leaked: "100%",
+      tags: "Business services, security software & IT services, risk management software",
+      size: "298 GB",
+      date: "2022-10-03",
+      downloads: "open",
+    },
+    {
       company: "Maxey Moverley",
       leaked: "100%",
       tags: "Electronics repair & refurbishment, technical service, CCTV",
